@@ -1,0 +1,2057 @@
+canonical_identifier: bkk:krp/KR3ep019/v1
+canonical_location: https://kanripo.org/bkk/KR3ep019/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 程杏軒醫案
+  identifiers:
+    krp: KR3ep019
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep019.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep019_000.yaml, hash: 'sha256:db0bc694423db65817ea1ffc5ad3f0bfa17178302558cf2623e1cc6889cce89a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep019_000.markers.yaml, hash: 'sha256:c494bb6cf1de1aca93069a6b0caf2c4c6876c8f887f2aa733f04a61e5e5886c5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 173
+  label: 劉序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d3.h1s1
+    span:
+    - front
+    - 173
+    - 366
+  label: 鮑序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d4.h1s1
+    span:
+    - front
+    - 366
+    - 557
+  label: 程序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d5.h1s1
+    span:
+    - front
+    - 557
+    - 815
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d7.h1s1
+    span:
+    - front
+    - 815
+    - 1039
+  label: 侯序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d8.h1s1
+    span:
+    - front
+    - 1039
+    - 1420
+  label: 朱序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d9.h1s1
+    span:
+    - front
+    - 1420
+    - 2064
+  label: 吳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d11.h1s1
+    span:
+    - front
+    - 2064
+    - 2350
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 17892
+  label: 初集
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d2
+    span:
+    - body
+    - 2
+    - 485
+  label: 許靜亭翁夫人產後感邪重用清下治驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d3
+    span:
+    - body
+    - 485
+    - 634
+  label: 劉明府少君先天不足心脾內虧治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d4
+    span:
+    - body
+    - 634
+    - 897
+  label: 鮑覺生宮詹郁傷心脾證類噎隔殆而復生
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d5
+    span:
+    - body
+    - 897
+    - 1123
+  label: 洪楚峰孝廉中臟殆證再生奇驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d6
+    span:
+    - body
+    - 1123
+    - 1374
+  label: 方萃岩翁公郎滑精證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d7
+    span:
+    - body
+    - 1374
+    - 1650
+  label: 余氏子瘧後變證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d8
+    span:
+    - body
+    - 1650
+    - 1791
+  label: 汪典揚翁外孫女體弱感邪證變抽掣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d9
+    span:
+    - body
+    - 1791
+    - 2432
+  label: 方玉堂翁孫女暑風驚證詳論病機治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d10
+    span:
+    - body
+    - 2432
+    - 2597
+  label: 方宅揆翁幼孫暑風驚證病愈之奇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d11
+    span:
+    - body
+    - 2597
+    - 2924
+  label: 洪荔原翁尊堂大頭時疫真熱假寒之證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d12
+    span:
+    - body
+    - 2924
+    - 3106
+  label: 又夫人子嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d13
+    span:
+    - body
+    - 3106
+    - 3467
+  label: 族兄奏韓挾虛傷寒因循貽誤救治原委
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d14
+    span:
+    - body
+    - 3467
+    - 3870
+  label: 方牧夫兄尊堂寒濕內伏加感外邪
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d15
+    span:
+    - body
+    - 3870
+    - 3966
+  label: 曹近軒翁感後食復
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d16
+    span:
+    - body
+    - 3966
+    - 4353
+  label: 曹肖岩翁春溫兩感危證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d17
+    span:
+    - body
+    - 4353
+    - 4549
+  label: 又三郎麻閉急證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d18
+    span:
+    - body
+    - 4549
+    - 4656
+  label: 吳芳崖兄幼孫胎瘧
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d19
+    span:
+    - body
+    - 4656
+    - 4841
+  label: 方理豐翁中寒脫陽殆證救蘇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d20
+    span:
+    - body
+    - 4841
+    - 5011
+  label: 方晉偕翁乃媳咳嗽成癆預決不治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d21
+    span:
+    - body
+    - 5011
+    - 5196
+  label: 潘氏室女經閉成癆不治之證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d22
+    span:
+    - body
+    - 5196
+    - 5478
+  label: 方燦侶翁腹痛蓄瘀脫血治愈並商善後法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d23
+    span:
+    - body
+    - 5478
+    - 5706
+  label: 農人某攻痞動血昏暈急證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d24
+    span:
+    - body
+    - 5706
+    - 5879
+  label: 王以仁翁乃郎暑病熱久傷陰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d25
+    span:
+    - body
+    - 5879
+    - 5955
+  label: 又翁自病肝鬱證似外感
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d26
+    span:
+    - body
+    - 5955
+    - 6091
+  label: 吳秀森翁乾腳氣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d27
+    span:
+    - body
+    - 6091
+    - 6207
+  label: 洪臨川兄幼女偏廢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d28
+    span:
+    - body
+    - 6207
+    - 6398
+  label: 吳禮庭兄時感腫腮消後睪丸腫痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d29
+    span:
+    - body
+    - 6398
+    - 6652
+  label: 莊炳南兄素稟火體病治與眾不同
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d30
+    span:
+    - body
+    - 6652
+    - 6823
+  label: 柳蔭千兄令愛無故發癍
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d31
+    span:
+    - body
+    - 6823
+    - 7076
+  label: 柳聞鶯兄挾虛傷寒並後患陰瘧誤截致變拯治始末
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d32
+    span:
+    - body
+    - 7076
+    - 7377
+  label: 方繡文兄夫人懷孕日吐清涎數碗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d33
+    span:
+    - body
+    - 7377
+    - 7542
+  label: 曹德酬兄乃郎水腫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d34
+    span:
+    - body
+    - 7542
+    - 8093
+  label: 方詠葭兄傷寒轉瘧並論胎瘧病因
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d35
+    span:
+    - body
+    - 8093
+    - 8373
+  label: 閔方田兄初患少陰傷寒喉痹治愈後患腳氣雜治成痿
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d36
+    span:
+    - body
+    - 8373
+    - 8580
+  label: 汪心滌兄夫人半產血暈危證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d37
+    span:
+    - body
+    - 8580
+    - 8807
+  label: 吳立亭翁幼孫傷暑危證治驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d38
+    span:
+    - body
+    - 8807
+    - 8999
+  label: 梅文彩兄令堂病類噎隔奇證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d39
+    span:
+    - body
+    - 8999
+    - 9305
+  label: 鄭鶴鳴挾陰傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d40
+    span:
+    - body
+    - 9305
+    - 9563
+  label: 鄭媼便閉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d41
+    span:
+    - body
+    - 9563
+    - 9762
+  label: 吳光先翁偏中便閉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d42
+    span:
+    - body
+    - 9762
+    - 10066
+  label: 董千云傷寒格陽證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d43
+    span:
+    - body
+    - 10066
+    - 10339
+  label: 許嫗傷寒疑難證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d44
+    span:
+    - body
+    - 10339
+    - 10452
+  label: 吳某時瘧變證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d45
+    span:
+    - body
+    - 10452
+    - 10623
+  label: 族叔曉堂失志狂妄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d46
+    span:
+    - body
+    - 10623
+    - 10913
+  label: 族人聯升休息痢證治奇驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d47
+    span:
+    - body
+    - 10913
+    - 11098
+  label: 堂妹感冒暑風證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d48
+    span:
+    - body
+    - 11098
+    - 11371
+  label: 家炳然兄女肝鬱氣厥實有羸狀
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d49
+    span:
+    - body
+    - 11371
+    - 11735
+  label: 陳某子感證體脈俱厥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d50
+    span:
+    - body
+    - 11735
+    - 12219
+  label: 又婦憂勞傳染藥誤致變
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d51
+    span:
+    - body
+    - 12219
+    - 12485
+  label: 許生母傷食腹痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d52
+    span:
+    - body
+    - 12485
+    - 12691
+  label: 葉習方甥麻疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d53
+    span:
+    - body
+    - 12691
+    - 13061
+  label: 族兄女痘證並婦感證瀕危救回大路
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d54
+    span:
+    - body
+    - 13061
+    - 13295
+  label: 菜傭某單腹脹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d55
+    span:
+    - body
+    - 13295
+    - 13662
+  label: 胡某乃媳感證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d56
+    span:
+    - body
+    - 13662
+    - 13898
+  label: 汪氏婦熱病喜飲沸湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d57
+    span:
+    - body
+    - 13898
+    - 14080
+  label: 蔣某陰暑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d58
+    span:
+    - body
+    - 14080
+    - 14591
+  label: 汪木工感證舌苔變易之奇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d59
+    span:
+    - body
+    - 14591
+    - 14703
+  label: 農人某傷寒誤服涼藥舌見人字紋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d60
+    span:
+    - body
+    - 14703
+    - 14826
+  label: 李某陰證傷寒見純紅舌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d61
+    span:
+    - body
+    - 14826
+    - 15009
+  label: 鄭氏婦肝風頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d62
+    span:
+    - body
+    - 15009
+    - 15136
+  label: 汪某頭痛預見真臟脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d63
+    span:
+    - body
+    - 15136
+    - 15299
+  label: 方氏婦目疾誤治變證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d64
+    span:
+    - body
+    - 15299
+    - 15407
+  label: 閔某心脾虛脘痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d65
+    span:
+    - body
+    - 15407
+    - 15684
+  label: 許細長食厥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d66
+    span:
+    - body
+    - 15684
+    - 15880
+  label: 商人某唇衄奇證奇治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d67
+    span:
+    - body
+    - 15880
+    - 16095
+  label: 汪氏婦鼻衄止衄奇法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d68
+    span:
+    - body
+    - 16095
+    - 16210
+  label: 某婦胎動下血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d69
+    span:
+    - body
+    - 16210
+    - 16332
+  label: 呂婦產後胞衣不下誤藥暈脫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d70
+    span:
+    - body
+    - 16332
+    - 16412
+  label: 族媼血崩奇證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d71
+    span:
+    - body
+    - 16412
+    - 16609
+  label: 方氏女孩帶下罕見之證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d72
+    span:
+    - body
+    - 16609
+    - 16753
+  label: 洪大登痙病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d73
+    span:
+    - body
+    - 16753
+    - 16984
+  label: 王木工反關脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d74
+    span:
+    - body
+    - 16984
+    - 17073
+  label: 王某血證頻發
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d75
+    span:
+    - body
+    - 17073
+    - 17391
+  label: 族子石淋奇證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d76
+    span:
+    - body
+    - 17391
+    - 17552
+  label: 曹某忍精淋痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d77
+    span:
+    - body
+    - 17552
+    - 17757
+  label: 王氏婦痹證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d6d78
+    span:
+    - body
+    - 17757
+    - 17892
+  label: 自病臂痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10.h1s1
+    span:
+    - body
+    - 17892
+    - 44043
+  label: 續錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d2
+    span:
+    - body
+    - 17894
+    - 18176
+  label: 黃敬修兄咳血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d3
+    span:
+    - body
+    - 18176
+    - 18626
+  label: 鮑宗海風寒喘嗽誤補肺脹欲絕治驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d4
+    span:
+    - body
+    - 18626
+    - 18871
+  label: 胡某婦臟躁面論證治方法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d5
+    span:
+    - body
+    - 18871
+    - 19198
+  label: 余振如兄幼子胎癇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d6
+    span:
+    - body
+    - 19198
+    - 19635
+  label: 柳聖依翁夫人熱病戰汗而解
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d7
+    span:
+    - body
+    - 19635
+    - 20097
+  label: 鮑子欽兄感風停食小恙猝變虛脫宜用急療之法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d8
+    span:
+    - body
+    - 20097
+    - 20411
+  label: 族婦眩暈續堂弟媳所患證同治皆無效不藥自痊
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d9
+    span:
+    - body
+    - 20411
+    - 20818
+  label: 洪荔原翁挾虛傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d10
+    span:
+    - body
+    - 20818
+    - 21261
+  label: 洪召亭翁夫人胎動血暈急救保全
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d11
+    span:
+    - body
+    - 21261
+    - 21398
+  label: 曹引泉翁竹筒痢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d12
+    span:
+    - body
+    - 21398
+    - 21754
+  label: 王策勳先生幼孫疳疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d13
+    span:
+    - body
+    - 21754
+    - 21961
+  label: 金蔭陶封翁久瀉滑脫之證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d14
+    span:
+    - body
+    - 21961
+    - 22605
+  label: 洪梅渚翁肝鬱犯胃痛嘔發黃溫補藥誤危而復安
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d15
+    span:
+    - body
+    - 22605
+    - 23027
+  label: 又乃愛暑邪擾胃發熱吐瀉欲作驚搐
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d16
+    span:
+    - body
+    - 23027
+    - 23492
+  label: 又乃郎濕溫感證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d17
+    span:
+    - body
+    - 23492
+    - 23841
+  label: 張汝功兄乃郎嗽久傷陰奇治驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d18
+    span:
+    - body
+    - 23841
+    - 26832
+  label: 又令愛暑入心包拯治無功後見數人證同皆不可救並答門人四問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d19
+    span:
+    - body
+    - 26832
+    - 27154
+  label: 葉蔚如兄脅痛便閉一劑而效
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d20
+    span:
+    - body
+    - 27154
+    - 27319
+  label: 曹靜川翁孫女頦脫音啞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d21
+    span:
+    - body
+    - 27319
+    - 27673
+  label: 堂妹吐證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d22
+    span:
+    - body
+    - 27673
+    - 28028
+  label: 方萃岩翁乃郎跌後又患腹痛藥傷胃氣治驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d23
+    span:
+    - body
+    - 28028
+    - 28456
+  label: 又翁自患陰疽復中寒陽脫救急治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d24
+    span:
+    - body
+    - 28456
+    - 29235
+  label: 次兒光墀單腹脹奇驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d25
+    span:
+    - body
+    - 29235
+    - 29865
+  label: 巴聲茂生布痘癍閉險逆一劑救轉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d26
+    span:
+    - body
+    - 29865
+    - 31737
+  label: 答鮑北山翁詢伊郎飲澼證治始末並商善後之策
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d27
+    span:
+    - body
+    - 31737
+    - 32325
+  label: 許玉書翁大郎腹痛吐瀉危證拯治之奇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d28
+    span:
+    - body
+    - 32325
+    - 32945
+  label: 又次郎脾腎陽虛伏寒凝冱重用溫補而瘳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d29
+    span:
+    - body
+    - 32945
+    - 33509
+  label: 鮑宅京翁僕人中寒暴脫救轉之奇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d30
+    span:
+    - body
+    - 33509
+    - 33640
+  label: 許絅之兄齒痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d31
+    span:
+    - body
+    - 33640
+    - 33948
+  label: 鮑智原翁令孫痘後鬼腫潰久藥投溫補而愈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d32
+    span:
+    - body
+    - 33948
+    - 35417
+  label: 吳尚時兄春溫兩感危證治愈附載鄭晉康兄令弟病同致殂之故並誨門人
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d33
+    span:
+    - body
+    - 35417
+    - 35625
+  label: 家芃生兄怔忡治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d34
+    span:
+    - body
+    - 35625
+    - 36084
+  label: 汪靖臣兄乃郎冒暑瀉甚欲脫亟挽元氣一法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d35
+    span:
+    - body
+    - 36084
+    - 36536
+  label: 又幼女外感咳嗽誤藥釀成肺痹急證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d36
+    span:
+    - body
+    - 36536
+    - 36939
+  label: 黃曙堂翁乃郎頭痛忽變痙厥續見數證皆不治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d37
+    span:
+    - body
+    - 36939
+    - 37498
+  label: 家秀翹兄肝鬱痛傷胃氣詳論病機治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d38
+    span:
+    - body
+    - 37498
+    - 37974
+  label: 別駕菽田何公僕婦子癇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d39
+    span:
+    - body
+    - 37974
+    - 38418
+  label: 鮑覺生宮詹病發三次不能復起
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d40
+    span:
+    - body
+    - 38418
+    - 38865
+  label: 黃就唐表兄脘痛嘔吐危證治驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d41
+    span:
+    - body
+    - 38865
+    - 39259
+  label: 燕云亭司馬伏暑感證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d42
+    span:
+    - body
+    - 39259
+    - 39776
+  label: 饒君揚翁公郎風溫證治原委
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d43
+    span:
+    - body
+    - 39776
+    - 40068
+  label: 饒厚卿兄幼女因熱生風之證治愈並明其理
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d44
+    span:
+    - body
+    - 40068
+    - 40282
+  label: 又僕人肝風用藥大意
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d45
+    span:
+    - body
+    - 40282
+    - 40764
+  label: 許兌岩兄尊堂久痢治驗
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d46
+    span:
+    - body
+    - 40764
+    - 41038
+  label: 許月鄰翁令愛齒衄
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d47
+    span:
+    - body
+    - 41038
+    - 41418
+  label: 族弟羲採血湧欲脫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d48
+    span:
+    - body
+    - 41418
+    - 42519
+  label: 何少君令政傳屍蟲異附載歷見諸證並詳治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d49
+    span:
+    - body
+    - 42519
+    - 42890
+  label: 汪紹由翁尊堂脫證救蘇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d50
+    span:
+    - body
+    - 42890
+    - 43148
+  label: 汪商彝翁夫人風寒襲絡之證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d10d51
+    span:
+    - body
+    - 43148
+    - 44043
+  label: 予久患腹痛忽下瘀血而痊
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12.h1s1
+    span:
+    - body
+    - 44043
+    - 69051
+  label: 程杏軒醫案輯錄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d2
+    span:
+    - body
+    - 44050
+    - 44256
+  label: 慶敬齋方伯耳鳴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d3
+    span:
+    - body
+    - 44256
+    - 44577
+  label: 又公子痘證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d4
+    span:
+    - body
+    - 44577
+    - 44722
+  label: 齊方伯脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d5
+    span:
+    - body
+    - 44722
+    - 45024
+  label: 福方伯哮嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d6
+    span:
+    - body
+    - 45024
+    - 45282
+  label: 臺靜亭州尊陰陽兩虧傷及奇經
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d7
+    span:
+    - body
+    - 45282
+    - 45514
+  label: 長中堂病機治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d8
+    span:
+    - body
+    - 45514
+    - 45757
+  label: 馬朗山制軍公子中寒陽脫急救不及
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d9
+    span:
+    - body
+    - 45757
+    - 45966
+  label: 溫景僑制軍飲傷脾胃商善後之策
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d10
+    span:
+    - body
+    - 45966
+    - 46331
+  label: 周都憲咳久醫誤治用溫肺滌邪
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d11
+    span:
+    - body
+    - 46331
+    - 46501
+  label: 方耒青制軍便瀉溲數
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d12
+    span:
+    - body
+    - 46501
+    - 46859
+  label: 曾賓谷中丞痢疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d13
+    span:
+    - body
+    - 46859
+    - 47029
+  label: 張觀察如夫人經期不調
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d14
+    span:
+    - body
+    - 47029
+    - 47528
+  label: 龔暗齋觀察令媳瘵證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d15
+    span:
+    - body
+    - 47528
+    - 48124
+  label: 吳春麓儀曹不寐眩暈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d16
+    span:
+    - body
+    - 48124
+    - 48402
+  label: 又少君水火失濟之證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d17
+    span:
+    - body
+    - 48402
+    - 48558
+  label: 胡觀察疝證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d18
+    span:
+    - body
+    - 48558
+    - 48814
+  label: 郭松崖郡侯瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d19
+    span:
+    - body
+    - 48814
+    - 48969
+  label: 鮑蒔春部曹尊堂血枯久傷奇經
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d20
+    span:
+    - body
+    - 48969
+    - 49137
+  label: 周司馬痱風病後足膝軟弱
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d21
+    span:
+    - body
+    - 49137
+    - 49400
+  label: 王明府夫人積聚久痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d22
+    span:
+    - body
+    - 49400
+    - 49615
+  label: 沈虹橋廣文疫證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d23
+    span:
+    - body
+    - 49615
+    - 49892
+  label: 洪廣文少君損過脾胃
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d24
+    span:
+    - body
+    - 49892
+    - 50963
+  label: 鮑覺生宮詹精氣內虧詳敘證治次第
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d25
+    span:
+    - body
+    - 50963
+    - 51278
+  label: 殷仲周先生筋攣便濁
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d26
+    span:
+    - body
+    - 51278
+    - 51532
+  label: 張佩韋先生肝腎兩虧證治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d27
+    span:
+    - body
+    - 51532
+    - 51837
+  label: 家近陶翁肝陽逆肺咳嗽加感風溫標本異治
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d28
+    span:
+    - body
+    - 51837
+    - 52268
+  label: 汪舜賡翁令愛水腫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d29
+    span:
+    - body
+    - 52268
+    - 52677
+  label: 方芷南茂才夫人產後心脾兩虧之證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d30
+    span:
+    - body
+    - 52677
+    - 54123
+  label: 鮑禹京翁夫人厥證治法節略
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d31
+    span:
+    - body
+    - 54123
+    - 54411
+  label: 張仲篪翁息賁喘嗽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d32
+    span:
+    - body
+    - 54411
+    - 54574
+  label: 方竹坪翁頭痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d33
+    span:
+    - body
+    - 54574
+    - 54826
+  label: 洪並鋒翁脾陽虛寒濕內伏重用溫補治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d34
+    span:
+    - body
+    - 54826
+    - 55148
+  label: 洪庭光兄肝風眩暈證類猝中
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d35
+    span:
+    - body
+    - 55148
+    - 55418
+  label: 葉振標翁證患似隔非隔
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d36
+    span:
+    - body
+    - 55418
+    - 55746
+  label: 洪星門翁吐血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d37
+    span:
+    - body
+    - 55746
+    - 56002
+  label: 龔西崖兄咳血
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d38
+    span:
+    - body
+    - 56002
+    - 56603
+  label: 吳曜泉翁乃媳痙厥變幻證治之奇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d39
+    span:
+    - body
+    - 56603
+    - 56793
+  label: 葉震先兄肝風眩暈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d40
+    span:
+    - body
+    - 56793
+    - 57131
+  label: 吳雙翹兄幼女目疾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d41
+    span:
+    - body
+    - 57131
+    - 57938
+  label: 汪式如兄陰暑感證轉為癉瘧前後治法不同
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d42
+    span:
+    - body
+    - 57938
+    - 58270
+  label: 又乃嫂喉痛清藥過劑變證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d43
+    span:
+    - body
+    - 58270
+    - 59184
+  label: 又患伏暑危證拯治原委
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d44
+    span:
+    - body
+    - 59184
+    - 59706
+  label: 吳婦血崩
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d45
+    span:
+    - body
+    - 59706
+    - 60062
+  label: 許婦內傷經閉辨明非孕
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d46
+    span:
+    - body
+    - 60062
+    - 61059
+  label: 汪孚占翁乃孫暑風驚證反復治法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d47
+    span:
+    - body
+    - 61059
+    - 61256
+  label: 黃禹功兄陰虛咳血誤服陽藥致害
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d48
+    span:
+    - body
+    - 61256
+    - 61538
+  label: 方侶豐兄挾虛傷寒誤治致變壞病
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d49
+    span:
+    - body
+    - 61538
+    - 61935
+  label: 謝翁證治並答所問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d50
+    span:
+    - body
+    - 61935
+    - 63129
+  label: 饒君揚翁脾虛瀉血肺燥咳嗽證治異歧
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d51
+    span:
+    - body
+    - 63129
+    - 63306
+  label: 方女慢驚
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d52
+    span:
+    - body
+    - 63306
+    - 63694
+  label: 某嫗本病風痱加感暑邪
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d53
+    span:
+    - body
+    - 63694
+    - 63909
+  label: 胡某令郎麻後頸生瘰癧籌治三法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d54
+    span:
+    - body
+    - 63909
+    - 64030
+  label: 家若谷兄乃郎脅痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d55
+    span:
+    - body
+    - 64030
+    - 64424
+  label: 梅氏女嘔吐經閉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d56
+    span:
+    - body
+    - 64424
+    - 65059
+  label: 葉某喉痛
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d57
+    span:
+    - body
+    - 65059
+    - 65742
+  label: 朱百春兄令嬸半產崩暈寒熱似瘧
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d58
+    span:
+    - body
+    - 65742
+    - 65959
+  label: 王氏婦妊娠二便閉塞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d59
+    span:
+    - body
+    - 65959
+    - 66159
+  label: 李某鼻淵孔潰
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d60
+    span:
+    - body
+    - 66159
+    - 66481
+  label: 王某背瘍潰後餘毒未淨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d61
+    span:
+    - body
+    - 66481
+    - 66728
+  label: 王錫章肺腎虛喘畏補致脫
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d62
+    span:
+    - body
+    - 66728
+    - 67487
+  label: 吳媼肺痹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d63
+    span:
+    - body
+    - 67487
+    - 67844
+  label: 施婦感證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d64
+    span:
+    - body
+    - 67844
+    - 68161
+  label: 江婦崩證
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d65
+    span:
+    - body
+    - 68161
+    - 68531
+  label: 江氏子足痹誤治成廢
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep019_jc_000-d12d66
+    span:
+    - body
+    - 68531
+    - 69051
+  label: 葉翰周世侄感證反復狀類內傷
+  type: section
+  level: 2
+hash: sha256:33aeeec990dbf4a61f929d3bfa6832fb50fcf23b4f783312b44f681726f63ea2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
