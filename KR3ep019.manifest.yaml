@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep019_000.yaml, hash: 'sha256:db0bc694423db65817ea1ffc5ad3f0bfa17178302558cf2623e1cc6889cce89a'}
+  - {seq: 0, filename: KR3ep019_000.yaml, hash: 'sha256:945c2e973e2628d2a0c2501f307f63668fc92f66ee116f1361b8cfe3ed711e7e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep019_000.markers.yaml, hash: 'sha256:c494bb6cf1de1aca93069a6b0caf2c4c6876c8f887f2aa733f04a61e5e5886c5'}
+  - {seq: 0, role: markers, filename: assets/KR3ep019_000.markers.yaml, hash: 'sha256:a53768d738d77be18e5648e3b1a894d596d02bd55ca424c61e67ebd446228edc'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2051,7 +2051,4 @@ table_of_contents:
   label: 葉翰周世侄感證反復狀類內傷
   type: section
   level: 2
-hash: sha256:33aeeec990dbf4a61f929d3bfa6832fb50fcf23b4f783312b44f681726f63ea2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1a520411c1c72e41fb20828af459f9ecbd328cfe4d8a86da7df288f81bd24332
