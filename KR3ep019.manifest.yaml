@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep019/v1
 canonical_location: https://kanripo.org/bkk/KR3ep019/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 程杏軒醫案
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep019_000.yaml, hash: 'sha256:945c2e973e2628d2a0c2501f307f63668fc92f66ee116f1361b8cfe3ed711e7e'}
+  - {seq: 0, filename: KR3ep019_000.yaml, hash: 'sha256:2d31268829c144d5d23ec65295b8b67e83641cc39afd473f67bc955e8f967e5a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep019_000.markers.yaml, hash: 'sha256:a53768d738d77be18e5648e3b1a894d596d02bd55ca424c61e67ebd446228edc'}
+  - {seq: 0, role: markers, filename: assets/KR3ep019_000.markers.yaml, hash: 'sha256:29db9fbdee4f4a2b9b97e1d5347959a492aa41c7eb5e9f6a2b0c2a14c3d7aeee'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2051,4 +2051,7 @@ table_of_contents:
   label: 葉翰周世侄感證反復狀類內傷
   type: section
   level: 2
-hash: sha256:1a520411c1c72e41fb20828af459f9ecbd328cfe4d8a86da7df288f81bd24332
+hash: sha256:f3ac487c166131deadca8b431912929774027cef3aa67ad29c219c3d0d2d2d7c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
